@@ -1727,6 +1727,11 @@
     sudo-prompt "^9.0.0"
     wcwidth "^1.0.1"
 
+"@tap-payments/gosell-sdk-react-native@1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@tap-payments/gosell-sdk-react-native/-/gosell-sdk-react-native-1.0.6.tgz#9b95611a963ba6a3344e77089bab72752e01b625"
+  integrity sha512-WHGcI4oegSABcVcoKi5S6UtPjVXB9PM/VsBaKlPza2uNWUOV/CuFsHY7auwCkNAMN5tBddStEsDGPIEXPV6Q0Q==
+
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0":
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.3.tgz#4ba8ddb720221f432e443bd5f9117fd22cfd4762"
