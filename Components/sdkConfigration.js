@@ -79,10 +79,10 @@ const paymentReference = {
 
 
 const appCredentials = {
-    production_secrete_key: (Platform.OS == 'ios') ? 'iOS-Live-KEY' : 'Android-Live-KEY',
+    production_secrete_key: (Platform.OS == 'ios') ? 'iOS-Live-KEY' : 'sk_test_CVZWNT8ogzq5n9LlPdhcSUAu',
     language: Languages.EN,
-    sandbox_secrete_key: (Platform.OS == 'ios') ? 'iOS-SANDBOX-KEY' : 'Android-SANDBOX-KEY',
-    bundleID: (Platform.OS == 'ios') ? 'iOS-PACKAGE-NAME' : 'ANDROIID-PACKAGE-NAME',
+    sandbox_secrete_key: (Platform.OS == 'ios') ? 'iOS-SANDBOX-KEY' : 'sk_test_CVZWNT8ogzq5n9LlPdhcSUAu',
+    bundleID: (Platform.OS == 'ios') ? 'iOS-PACKAGE-NAME' : 'test.goqure.com',
 }
 
 const allConfigurations = {
